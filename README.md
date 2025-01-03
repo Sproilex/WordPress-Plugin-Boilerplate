@@ -2,6 +2,10 @@
 
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.
 
+I'm making this fork to add some features to the original project and try to keep it up to date with new features and improvements as the original project is not being maintened from a long time ago.
+
+The idea is to continiously update the original project with new improvements that can make the boilerplate more usefull for the community, so any contribution is welcome.
+
 ## Contents
 
 The WordPress Plugin Boilerplate includes the following files:
