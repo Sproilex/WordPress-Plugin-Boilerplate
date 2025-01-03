@@ -23,6 +23,15 @@
  */
 class Plugin_Name_Loader {
 
+    /**
+	 * The Singleton instance of the class.
+	 *
+	 * @since    1.0.0
+	 * @access   public
+	 * @var      Plugin_Name_Loader    $instance  The Singleton instance of the class.
+	 */
+    public static $instance;
+
 	/**
 	 * The array of actions registered with WordPress.
 	 *
@@ -48,6 +57,7 @@ class Plugin_Name_Loader {
 	 */
 	public function __construct() {
 
+        self::$instance = $this;
 		$this->actions = array();
 		$this->filters = array();
 
