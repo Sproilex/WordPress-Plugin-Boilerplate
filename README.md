@@ -4,7 +4,7 @@ A standardized, organized, object-oriented foundation for building high-quality 
 
 I'm making this fork to add some features to the original project and try to keep it up to date with new features and improvements as the original project is not being maintened from a long time ago.
 
-The idea is to continiously update the original project with new improvements that can make the boilerplate more usefull for the community, so any contribution is welcome.
+The idea is to continue updating the original project with new improvements that can make the boilerplate more usefull for the community, so any contribution is welcome.
 
 ## Contents
 
@@ -33,10 +33,6 @@ The Boilerplate can be installed directly into your plugins folder "as-is". You 
 * change `PLUGIN_NAME_` to `EXAMPLE_ME_`
 
 It's safe to activate the plugin at this point. Because the Boilerplate has no real functionality there will be no menu items, meta boxes, or custom post types added until you write the code.
-
-## WordPress.org Preparation
-
-The original launch of this version of the boilerplate included the folder structure needed for using your plugin on WordPress.org. That folder structure has been moved to its own repo here: https://github.com/DevinVinson/Plugin-Directory-Boilerplate
 
 ## Recommended Tools
 
@@ -92,12 +88,12 @@ The same is true of using tools like Grunt, Composer, etc. These are all fantast
 
 # Credits
 
-The WordPress Plugin Boilerplate was started in 2011 by [Tom McFarlin](http://twitter.com/tommcfarlin/) and has since included a number of great contributions. In March of 2015 the project was handed over by Tom to Devin Vinson.
+The WordPress Plugin Boilerplate was started in 2011 by [Tom McFarlin](http://twitter.com/tommcfarlin/) and has since included a number of great contributions. In March of 2015 the project was handed over by Tom to Devin Vinson. On January 2025 i decided to fork the original project to allow the community to contribute and improve the project.
 
-The current version of the Boilerplate was developed in conjunction with [Josh Eaton](https://twitter.com/jjeaton), [Ulrich Pogson](https://twitter.com/grapplerulrich), and [Brad Vincent](https://twitter.com/themergency).
+The original version of the Boilerplate was developed by [Josh Eaton](https://twitter.com/jjeaton), [Ulrich Pogson](https://twitter.com/grapplerulrich), and [Brad Vincent](https://twitter.com/themergency) and then maintained by [Devin Vinson](https://github.com/DevinVinson).
 
-The homepage is based on a design as provided by [HTML5Up](http://html5up.net), the Boilerplate logo was designed by Rob McCaskill of [BungaWeb](http://bungaweb.com), and the site `favicon` was created by [Mickey Kay](https://twitter.com/McGuive7).
+The website generator was developed by [Enrique Chavez](https://github.com/tmeister) and it's currently using the original repository of the Boilerplate by [Devin Vinson](https://github.com/DevinVinson).
 
 ## Documentation, FAQs, and More
 
-If you’re interested in writing any documentation or creating tutorials please [let me know](http://devinvinson.com/contact/) .
+If you’re interested in writing any documentation or creating tutorials please [let me know](stivenilarraza@gmail.com) .
