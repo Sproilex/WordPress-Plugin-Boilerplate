@@ -96,4 +96,4 @@ The website generator was developed by [Enrique Chavez](https://github.com/tmeis
 
 ## Documentation, FAQs, and More
 
-If you’re interested in writing any documentation or creating tutorials please [let me know](stivenilarraza@gmail.com) .
+If you’re interested in writing any documentation or creating tutorials please let me know.
